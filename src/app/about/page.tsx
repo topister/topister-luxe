@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { aboutBag } from "@/assets/images";
+import aboutBag from "../../assets/images/handbags/bag-1.jpeg";
 
 export default function AboutPage() {
   return (
